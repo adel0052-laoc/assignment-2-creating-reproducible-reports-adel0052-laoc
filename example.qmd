@@ -1,0 +1,7 @@
+---
+title: "Example qmd file"
+author: "Alex Delamer"
+format: html
+---
+
+some text to the document
